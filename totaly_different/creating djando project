@@ -1,0 +1,9 @@
+pip install django --> to install django
+
+django-admin startproject projectName -> to create project
+
+step into the project >cd projectName
+
+start project >python manage.py runserver
+
+create new web page >python manage.py startapp webPage

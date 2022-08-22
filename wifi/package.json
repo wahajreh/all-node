@@ -1,0 +1,21 @@
+{
+  "name": "wifi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bruteforce": "^0.0.2",
+    "bruteforcer": "^1.0.1",
+    "intruder": "^0.2.0",
+    "node-wifi": "^2.0.16",
+    "node-wifi-scanner": "^1.1.2-np",
+    "nodemon": "^2.0.19",
+    "wifi-control": "^2.0.1"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "test": {
+    "username": "rails",
+    "password": "WvopaSwyqzr3oppC",
+    "database": "partyApp",
+    "host": "54.206.78.215",
+    "dialect": "mssql"
+  },
+  "development": {
+    "username": "rails",
+    "password": "WvopaSwyqzr3oppC",
+    "database": "partyApp",
+    "host": "54.206.78.215",
+    "dialect": "mssql"
+  },
+  "production": {
+    "username": "rails",
+    "password": "WvopaSwyqzr3oppC",
+    "database": "PartyApp",
+    "host": "54.206.78.215",
+    "dialect": "mssql"
+  }
+}
